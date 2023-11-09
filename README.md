@@ -5,8 +5,8 @@ Welcome to my portfolio website! This project is a simple two-page site that ini
 
 # Pages
 
--Home Page:A brief introduction of me.
--Contact Page:Ways to get in touch with me.
+Home Page:A brief introduction of me.
+Contact Page:Ways to get in touch with me.
 
 # Technologies Used
 
@@ -14,7 +14,7 @@ HTML and CSS
 
 # How to View
 
-You can access my portfolio website by visiting link.Feel free to explore the content and get in touch!
+You can access my portfolio website by visiting  https://chonuboy.github.io/Simple-portfolio-website-/.Feel free to explore the content and get in touch!
 
 # Contributing
 
