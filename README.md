@@ -9,8 +9,7 @@ Welcome to my portfolio website! This project is a simple two-page site that ini
 
 # Technologies Used
 
--HTML
--CSS
+HTML and CSS
 
 # How to View
 
